@@ -3,7 +3,7 @@
 <ul>Full-spectrum analysis on a python approach to gaining insights on stock market related tweets.</ul>
 
 <h2><strong>Project Outline:</strong></h2> 
-<ul>1. Tweet collection via <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/1_tweet_streaming_collection.py">streaming API</a> or<a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/1_tweet_collection.py">static collection</a>.</ul>
+<ul>1. Tweet collection via <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/1_tweet_streaming_collection.py">streaming API</a> or<a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/1_tweet_collection.py"> static collection</a>.</ul>
 <ul>2. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/2_text_pre-processing.py">Tweet Pre-processing</a></ul>
 <ul>3. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/3_term_frequencies.py">Term Frequencies</a></ul>
 <ul>4. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/5_data_visualisation-term-frequency.py">Data Visualisation</a></ul>
