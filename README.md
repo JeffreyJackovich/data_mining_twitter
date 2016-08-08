@@ -1,5 +1,5 @@
  
-<ul><h2><strong>What do these scripts accomplish?</strong></h2> 
+<ul><h2><strong>Goal</strong></h2> 
 <ul>Full-spectrum analysis on a python approach to gaining insights on stock market related tweets.</ul>
 
 <h2><strong>Project Outline:</strong></h2> 
@@ -11,7 +11,7 @@
 <h2><strong>Why is this interesting?</strong></h2>
 <ul>This provides a basic framework to develop robust predictive models.</ul>
 
-<h2><strong>My Next Steps?</strong></h2>
+<h2><strong>Next Steps?</strong></h2>
 <ul>1. Geolocation with Leaflet.js</ul>
 <ul>2. Term Co-Occurrences</ul>
 
