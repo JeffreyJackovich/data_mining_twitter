@@ -85,7 +85,7 @@ print(terms_max[:5])
 #     search_word = sys.argv[1] # pass a term as a command-line argument
 #     count_search = Counter()
 #     for line in f:
-#         tweet = json.loads(line)
+#         tweet = json.loads(line)co
 #         terms_only = [term for term in preprocess(tweet['text']) 
 #                       if term not in stop 
 #                       and not term.startswith(('#', '@'))]
