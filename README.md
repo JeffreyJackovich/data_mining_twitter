@@ -4,8 +4,8 @@
 
 
 <h2><strong>Why Twitter?</strong></h2> 
-<ul>Twitter's REST API provides access to the ~500 million daily tweets by a 
-<a href="https://dev.twitter.com/rest/public/search">Search API</a> and/or <a href="https://dev.twitter.com/streaming/overview">Streaming API</a>.
+<ul>Twitter's REST API provides access to ~500 million daily tweets with numerous options via a 
+<a href="https://dev.twitter.com/rest/public/search">Search API</a> and <a href="https://dev.twitter.com/streaming/overview">Streaming API</a>.
 Accessing the data is streamlined with python's <a href="http://www.tweepy.org/">Tweepy</a>.</ul>
  
  
