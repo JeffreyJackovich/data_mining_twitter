@@ -1,19 +1,25 @@
  
-<ul><h2><strong>Goal</strong></h2> 
-<ul>Full-spectrum analysis on a python approach to gaining insights on stock market related tweets.</ul>
+<h2><strong>Goal</strong></h2> 
+<ul>Access tweets via Twitter's public API options and perform a Sentiment Analysis on stock market related tweets.</ul>
 
+<h2><strong>Why Twitter?</strong></h2> 
+<ul>Twitter's REST API provides access to the ~500 million daily tweets by a 
+<a href="https://dev.twitter.com/rest/public/search">Search API</a> and/or <a href="https://dev.twitter.com/streaming/overview">Streaming API</a>.
+Accessing the data is streamlined with python's <a href="http://www.tweepy.org/">Tweepy</a>.</ul>
+ 
 <h2><strong>Project Outline:</strong></h2> 
 <ul>1. Tweet collection via <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/1_tweet_streaming_collection.py">streaming API</a> or<a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/1_tweet_collection.py"> static collection</a>.</ul>
 <ul>2. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/2_text_pre-processing.py">Tweet Pre-processing</a></ul>
 <ul>3. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/3_term_frequencies.py">Term Frequencies</a></ul>
-<ul>4. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/5_data_visualisation-term-frequency.py">Data Visualisation</a></ul>
+<ul>4. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/4_term_co-occurrences.py">Term Co-Occurrences</a></ul>
+<ul>5. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/5_data_visualisation-term-frequency.py">Data Visualisation</a></ul>
 
 <h2><strong>Why is this interesting?</strong></h2>
 <ul>This provides a basic framework to develop robust predictive models.</ul>
 
 <h2><strong>Next Steps?</strong></h2>
 <ul>1. Geolocation with Leaflet.js</ul>
-<ul>2. Term Co-Occurrences</ul>
+<ul>2. Build a real-time sentiment dashboard</ul>
 
 <h2><strong>Dependencies</strong></h2>
 <ul>Data collection: <a href="http://www.tweepy.org/">Tweepy</a></ul>
