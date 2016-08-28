@@ -16,6 +16,14 @@ Accessing the data is streamlined with python's <a href="http://www.tweepy.org/"
 <ul>4. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/4_term_co-occurrences.py">Term Co-Occurrences</a></ul>
 <ul>5. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/5_data_visualisation-term-frequency.py">Data Visualisation</a></ul>
 
+
+<h2><strong>Dependencies</strong></h2>
+<ul>Data collection: <a href="http://www.tweepy.org/">Tweepy</a></ul>
+<ul><a href="http://www.nltk.org/">NLTK</a></ul>
+<ul>Data Visualisiation:<a href="https://github.com/wrobstory/vincent">Vincent</a> to utilize <href="https://d3js.org/">D3.js</a></ul>
+<ul>Time Series Data Visualisiation:<a href="http://pandas.pydata.org/">Pandas</a> and <a href="https://github.com/wrobstory/vincent">Vincent</a></ul>
+
+
 <h2><strong>Why is this interesting?</strong></h2>
 <ul>Provides a basic framework to develop more complex data pipelines.</ul>
 
@@ -23,13 +31,6 @@ Accessing the data is streamlined with python's <a href="http://www.tweepy.org/"
 <h2><strong>Next Steps?</strong></h2>
 <ul>1. Geolocation with Leaflet.js</ul>
 <ul>2. Build a real-time sentiment dashboard</ul>
-
-
-<h2><strong>Dependencies</strong></h2>
-<ul>Data collection: <a href="http://www.tweepy.org/">Tweepy</a></ul>
-<ul><a href="http://www.nltk.org/">NLTK</a></ul>
-<ul>Data Visualisiation:<a href="https://github.com/wrobstory/vincent">Vincent</a> to utilize <href="https://d3js.org/">D3.js</a></ul>
-<ul>Time Series Data Visualisiation:<a href="http://pandas.pydata.org/">Pandas</a> and <a href="https://github.com/wrobstory/vincent">Vincent</a></ul>
 
 
 <h2><strong>Project Source</strong></h2>
