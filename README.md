@@ -17,7 +17,7 @@ Accessing the data is streamlined with python's <a href="http://www.tweepy.org/"
 <ul>5. <a href="https://github.com/JeffreyJackovich/data_mining_twitter/blob/master/5_data_visualisation-term-frequency.py">Data Visualisation</a></ul>
 
 <h2><strong>Why is this interesting?</strong></h2>
-<ul>This provides a basic framework to develop robust predictive models.</ul>
+<ul>Provides a basic framework to develop more complex data pipelines.</ul>
 
 
 <h2><strong>Next Steps?</strong></h2>
