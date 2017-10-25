@@ -21,7 +21,7 @@ Accessing the data is streamlined with python's <a href="http://www.tweepy.org/"
 <ul>Data collection: <a href="http://www.tweepy.org/">Tweepy</a></ul>
 <ul><a href="http://www.nltk.org/">NLTK</a></ul>
 <ul>Data Visualisiation:<a href="https://github.com/wrobstory/vincent">Vincent</a> to utilize <href="https://d3js.org/">D3.js</a></ul>
-<ul>Time Series Data Visualisiation:<a href="http://pandas.pydata.org/"> Pandas</a> and <a href="https://github.com/wrobstory/vincent">Vincent</a></ul>
+<ul>Time Series Data Visualisiation:<a href="http://pandas.pydata.org/"> Pandas</a> and <a href="https://github.com/wrobstory/vincent"> Vincent</a></ul>
 
 
 <h2><strong>Why is this interesting?</strong></h2>
